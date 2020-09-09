@@ -1,6 +1,8 @@
 # Wikigate Business Cases
 
-## Company Information
+## Business cases related to Company Information
+
+### Industry Classification
 
 ### Suply Chain
 
@@ -16,11 +18,12 @@
 
 ## Loss Scenario Modeling
 
-## Industry Classification
-
 ## Biodiversity
 
+## Sustainability
 
+## Covid 19
 
+## Opendata source catalog
 
-
+## Man Made Catastroph
